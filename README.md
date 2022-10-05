@@ -1,5 +1,15 @@
 # Gradle "Trust All" Plugin
 
+## NOTE:
+<b> </br>
+## This fork is because I could not raise PR to original repo to correct the gradle build issue which was reported in their issues section.
+Use this repo to generate jar for this project.
+
+Thanks, SL
+</b></br></br></br>
+
+<hr>
+     
 This plugin was born out of necessity for a quick-and-dirty way to use a
 Maven repository over HTTPS with a self-signed certificate.
 
